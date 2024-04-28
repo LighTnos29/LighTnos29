@@ -1,5 +1,5 @@
 
-![Logo](https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)
+![Logo](https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif)
 
 
 # Hey! I'm Udit Agrawal.
