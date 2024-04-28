@@ -19,7 +19,7 @@
 Javascript, HTML, CSS, React, TailwindCSS, Bootstrap, Express, Node, MongoDB, Python, C programming, Java ... 
 
 
-## Other Common Github Profile Sections
+## More About Me
 👩‍💻 I'm currently working on MERN stack.
 
 🧠 I'm currently learning python.
