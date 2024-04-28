@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Udit Agrawal</h1>
 <h3 align="center">"Creating Dynamic Web Applications with the MERN Stack"</h3>
+<img width="400" scr="https://static.vecteezy.com/system/resources/previews/000/523/309/non_2x/web-development-and-programming-coding-concept-seo-optimization-modern-web-design-on-laptop-screen-vector.jpg">
 
 - 🌱 I’m currently learning backend. **NodeJS , Express ,MongoDB**
 
