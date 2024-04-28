@@ -1,5 +1,5 @@
 
-![Logo]([https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263](https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif))
+![Logo](https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)
 
 
 # Hey! I'm Udit Agrawal.
