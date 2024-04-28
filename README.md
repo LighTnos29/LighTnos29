@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Udit Agrawal</h1>
 <h3 align="center">"Creating Dynamic Web Applications with the MERN Stack"</h3>
-<img align="right" alt="coding" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fyourbutlerspantry.com%2F%3Fw%3Dfunny-gifs-coding-gif-ff-xEJ39XTd&psig=AOvVaw13BetJNr_21mxD_ZeOIcHB&ust=1714412256080000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDbpsK55YUDFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fyourbutlerspantry.com%2F%3Fw%3Dfunny-gifs-coding-gif-ff-xEJ39XTd&psig=AOvVaw13BetJNr_21mxD_ZeOIcHB&ust=1714412256080000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDbpsK55YUDFQAAAAAdAAAAABAJ"/>
 
 - 🌱 I’m currently learning backend. **NodeJS , Express ,MongoDB**
 
