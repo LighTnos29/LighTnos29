@@ -10,13 +10,13 @@
 
 🐍 Exploring Python for machine learning adventures.
 
-💻 Pursuing full-stack proficiency with MEN stack.
+💻 Pursuing full-stack proficiency with MERN stack.
 
 👥 Let's connect and build amazing things together!
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=express,html,css,react,nodejs,tailwindcss,express,bootstrap,c,java,python,ejs" />
+<img src="https://skillicons.dev/icons?i=express,html,css,react,nodejs,tailwindcss,bootstrap,c,java,python,ejs" />
 
 
 ## More About Me
