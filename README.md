@@ -16,9 +16,8 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,c,java,python,ejs" />
-<br>
-<img src="https://skillicons.dev/icons?i=express,react,nodejs,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,c,java,python,ejs" />
+<img src="https://skillicons.dev/icons?i=express,react,nodejs,mongodb,tailwindcss" />
 
 
 ## More About Me
