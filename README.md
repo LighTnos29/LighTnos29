@@ -16,7 +16,12 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=express,react,nodejs,mongodb,tailwindcss,html,css,bootstrap,c,java,python,javascript&perline=6" />
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=express,react,nodejs,mongodb,tailwindcss,html,css,bootstrap,c,java,python,javascript&perline=6" />
+  </a>
+</p>
+
 
 
 ## More About Me
